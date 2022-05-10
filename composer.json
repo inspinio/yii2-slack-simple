@@ -1,0 +1,21 @@
+{
+  "name": "inspinio/yii2-slack-simple",
+  "description": "",
+  "type": "extension",
+  "license": "GPL-v3",
+  "support": {
+    "issues": "https://github.com/inspinio/yii2-slack-simple/issues",
+    "source": "https://github.com/inspinio/yii2-slack-simple"
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": ">=2.0.0",
+    "yiisoft/yii2-httpclient": "^2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "inspinio\\slack\\": ""
+    }
+  }
+}
