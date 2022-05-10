@@ -2,7 +2,7 @@
   "name": "inspinio/yii2-slack-simple",
   "description": "",
   "type": "extension",
-  "license": "GPL-v3",
+  "license": "MIT",
   "support": {
     "issues": "https://github.com/inspinio/yii2-slack-simple/issues",
     "source": "https://github.com/inspinio/yii2-slack-simple"
